@@ -1,0 +1,13 @@
+@import "../src/sass/custom.scss";
+@import "bootstrap/scss/bootstrap.scss";
+
+//Fonts
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    background: url("../assets/bg-redBelgrano.jpg");
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
